@@ -4,22 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+06/04/2018
 
 ### Student Name:  
-(First and Last Name)
+Mikael Mikaelian
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+In Lesson 4, we created a monthly expense calculator using cloud9 and Javascript
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+In this lesson we learned some of the basic commands that Javascript has to offer. 
 
 
 
