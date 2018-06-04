@@ -11,12 +11,12 @@ Mikael Mikaelian
 
 ### Project Description:
 In Lesson 4, we created a monthly expense calculator using cloud9 and Javascript
+
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://mm17ak.github.io/lesson4_javascript1/ 
 
 ### Lessons Learned in the Assignment:
-In this lesson we learned some of the basic commands that Javascript has to offer. 
+In this lesson we learned some of the basic commands that Javascript has to offer. We added Javascript to our monthly calculator via cloud9 and we learned how to store variables and values to a web page. Also, we learned the benefit of using Chrome Developer tools. We put all of these lessons together and created a calculator that can calculate monthly expenses. 
 
 
 
